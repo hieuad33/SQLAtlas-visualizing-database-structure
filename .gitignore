@@ -3,3 +3,7 @@ dist/
 *.local
 .firebase/
 firebase-debug*.log
+firebase.json
+firebase.json
+.firebaserc
+firebase.json
